@@ -1,0 +1,3 @@
+<?php 
+//Sielence is golden
+?>
